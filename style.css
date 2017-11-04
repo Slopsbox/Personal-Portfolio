@@ -13,8 +13,8 @@ body {
 #section-light {
     height: 40rem;
     background-color: whitesmoke;
+    background-image: url("");
     color: dimgrey;
-    font-size: 3rem;
 }
 
 #section-dark {

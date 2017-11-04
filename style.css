@@ -7,4 +7,18 @@
     
 body {
     font-family: 'Open Sans', sans-serif;
+    height: 100%;
+}
+
+#section-light {
+    height: 40rem;
+    background-color: whitesmoke;
+    color: dimgrey;
+    font-size: 3rem;
+}
+
+#section-dark {
+    height: 40rem;
+    background-color: #2F313D;
+    color: #F6F8ED;
 }

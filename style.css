@@ -1,5 +1,5 @@
 #header-section {
-    height: 40rem;
+ /*    height: 40rem; */
     background-color: #2F313D;
     color: #F6F8ED;
     font-size: 3rem;
@@ -11,14 +11,14 @@ body {
 }
 
 #section-light {
-    height: 40rem;
+/*    height: 40rem; */
     background-color: whitesmoke;
     background-image: url("");
     color: dimgrey;
 }
 
 #section-dark {
-    height: 40rem;
+/*    height: 40rem; */
     background-color: #2F313D;
     color: #F6F8ED;
 }
